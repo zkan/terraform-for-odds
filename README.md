@@ -1,2 +1,1 @@
-# terraform-for-odds
-Terraform for ODDS
+# Terraform for ODDS
